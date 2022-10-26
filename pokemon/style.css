@@ -1,0 +1,16 @@
+body {
+    background-color: coral;
+}
+th,
+td {
+    padding: 15px;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+}
+
+p {
+    font-family: consolas;
+}
